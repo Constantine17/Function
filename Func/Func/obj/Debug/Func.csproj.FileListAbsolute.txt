@@ -1,0 +1,6 @@
+D:\programs\GIT_C#\Function_simbol\Func\Func\bin\Debug\Func.exe.config
+D:\programs\GIT_C#\Function_simbol\Func\Func\obj\Debug\Func.csprojResolveAssemblyReference.cache
+D:\programs\GIT_C#\Function_simbol\Func\Func\bin\Debug\Func.exe
+D:\programs\GIT_C#\Function_simbol\Func\Func\bin\Debug\Func.pdb
+D:\programs\GIT_C#\Function_simbol\Func\Func\obj\Debug\Func.exe
+D:\programs\GIT_C#\Function_simbol\Func\Func\obj\Debug\Func.pdb
